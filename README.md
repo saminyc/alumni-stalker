@@ -1,4 +1,4 @@
-# 🧑‍🎓 LinkedIn Alumni Finder
+# 🧑‍🎓 LinkedIn AlumniStalker
 
 An AI-powered tool that helps you search and discover alumni from your college or university directly on LinkedIn — fast, smart, and beautifully simple.
 
